@@ -1,0 +1,94 @@
+body
+{
+    background-color: #F8F9F9;
+}
+.form
+{
+    background-image: linear-gradient(#005C97,#363795);
+    box-shadow: 2px 2px 2px gray;
+    height:160%;
+    width:100%;
+    border-radius: 17px;
+}
+.logo
+{
+    border-radius: 52%;
+    height:28%;
+}
+.hp
+{
+    background-color: aqua; 
+    height:50%;
+    width:100%; 
+}
+.caro
+{
+    width:100%;
+}
+.grid1
+{
+   height: 30%;
+   width:100%; 
+}
+.drchild
+{
+   height:65%;
+   width:100%;
+}
+.thumpsup
+{
+    height:65%;
+    width:100%;  
+}
+.dr_left
+{
+    height:60%;
+    width:100%;  
+}
+.dr_left_text
+{
+    /* background-color: aqua; */
+    height:60%;
+    width:100%; 
+}
+.dr_right
+{
+    height:60%;
+    width:100%;  
+}
+.dr_right_text
+{
+    /* background-color: aqua; */
+    height:60%;
+    width:100%;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #005C97;
+    border-color: #005C97;
+}
+label{
+    color:white;
+}
+p{
+    color:#363795;
+    font-size:20px;
+}
+.grid3
+{
+    background-color:#F8F9F9;
+    box-shadow:2px 2px 5px gray;
+    border-radius: 10px;
+    margin-left:1%;
+}
+.dd{
+    background-color: aqua;
+    height:50%;
+    width:106%;
+      box-shadow: 2px 2px 5px gray;
+}
+.drimg 
+{
+    height:55%;
+    width:50%;
+}
